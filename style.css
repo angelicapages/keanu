@@ -1,0 +1,22 @@
+.hidden {
+    display: none;
+}
+.tarjetas {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: aqua;
+    margin: 10px;
+}
+
+.titulo-tarjetas {
+    text-align: center;
+}
+
+.imagen {
+    display: flex;
+    justify-content: center;
+}
